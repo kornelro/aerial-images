@@ -1,0 +1,98 @@
+{
+  "info": {},
+  "categories": {
+    "label": {
+      "labels": [
+        {
+          "name": "car",
+          "parent": ""
+        },
+        {
+          "name": "parking",
+          "parent": ""
+        }
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "map15_3",
+      "annotations": [
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            743.06,
+            23.21,
+            844.84,
+            414.13,
+            937.37,
+            397.94,
+            830.97,
+            25.52
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            199.47,
+            694.03,
+            238.8,
+            687.09,
+            271.18,
+            758.79,
+            231.86,
+            777.3
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            2207.29,
+            7.02,
+            2283.63,
+            307.73,
+            1110.86,
+            659.33,
+            1293.6,
+            1302.39,
+            3218.14,
+            1059.51,
+            3220.46,
+            9.33
+          ],
+          "z_order": 0
+        }
+      ],
+      "attr": {
+        "frame": 0
+      },
+      "image": {
+        "size": [
+          1758,
+          3221
+        ],
+        "path": "map15_3.png"
+      }
+    }
+  ]
+}

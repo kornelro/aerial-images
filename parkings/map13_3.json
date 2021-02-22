@@ -1,0 +1,136 @@
+{
+  "info": {},
+  "categories": {
+    "label": {
+      "labels": [
+        {
+          "name": "car",
+          "parent": ""
+        },
+        {
+          "name": "parking",
+          "parent": ""
+        }
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "map13_3",
+      "annotations": [
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            1908.9,
+            55.59,
+            1728.47,
+            1279.26,
+            1821.0,
+            1302.39,
+            2003.74,
+            69.47
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            2961.38,
+            57.91,
+            2942.88,
+            916.09,
+            3016.9,
+            862.89,
+            3030.78,
+            39.4
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            1962.1,
+            1688.68,
+            1962.1,
+            1725.69,
+            2024.55,
+            1746.51,
+            2010.68,
+            1695.62
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            2050.0,
+            145.81,
+            2015.3,
+            601.5,
+            2084.7,
+            749.54,
+            2114.77,
+            749.54,
+            2128.65,
+            136.56
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            3174.19,
+            94.92,
+            3220.46,
+            97.23,
+            3208.89,
+            1133.53,
+            3169.57,
+            1142.78
+          ],
+          "z_order": 0
+        }
+      ],
+      "attr": {
+        "frame": 0
+      },
+      "image": {
+        "size": [
+          1758,
+          3221
+        ],
+        "path": "map13_3.png"
+      }
+    }
+  ]
+}

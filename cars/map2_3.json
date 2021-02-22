@@ -1,0 +1,1874 @@
+{
+	"info": {},
+	"categories": {
+		"label": {
+			"labels": [
+				{
+					"name": "parking",
+					"parent": ""
+				},
+				{
+					"name": "car",
+					"parent": ""
+				}
+			]
+		}
+	},
+	"items": [
+		{
+			"id": "map2_3",
+			"annotations": [
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						377.6,
+						346.41,
+						23.67999999999995,
+						70.98999999999995
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						405.58,
+						344.25,
+						34.43000000000001,
+						64.56
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						455.07,
+						337.8,
+						30.129999999999997,
+						66.69999999999999
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						489.5,
+						344.25,
+						27.970000000000029,
+						81.76999999999998
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						526.08,
+						348.56,
+						27.969999999999915,
+						73.16000000000003
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						564.81,
+						348.56,
+						34.430000000000067,
+						71.00999999999999
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						607.85,
+						342.1,
+						30.120000000000006,
+						77.46999999999997
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						635.82,
+						339.95,
+						36.57999999999993,
+						90.38
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						668.1,
+						335.65,
+						43.02999999999997,
+						83.92000000000002
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						719.74,
+						352.86,
+						30.129999999999997,
+						64.56
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						786.45,
+						529.31,
+						23.659999999999969,
+						71.0100000000001
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						745.56,
+						531.46,
+						30.13000000000011,
+						64.54999999999996
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						708.98,
+						531.46,
+						30.129999999999997,
+						75.30999999999995
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						670.25,
+						529.31,
+						32.27999999999997,
+						73.16000000000008
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						625.06,
+						522.85,
+						47.34000000000003,
+						68.86000000000002
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						601.39,
+						533.61,
+						25.82000000000005,
+						66.71000000000004
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						556.21,
+						529.31,
+						30.120000000000006,
+						64.55000000000007
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						523.93,
+						518.55,
+						23.670000000000074,
+						77.46000000000004
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						480.89,
+						516.4,
+						25.819999999999994,
+						73.15999999999997
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						440.01,
+						516.4,
+						32.28000000000003,
+						77.46000000000004
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						394.82,
+						514.25,
+						36.579999999999987,
+						64.54999999999996
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						360.39,
+						509.94,
+						32.28000000000003,
+						71.01000000000005
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						323.81,
+						525.0,
+						32.27999999999997,
+						58.10000000000002
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						280.78,
+						527.16,
+						32.27000000000004,
+						55.940000000000058
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						274.32,
+						606.77,
+						58.10000000000002,
+						90.38
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						325.96,
+						615.38,
+						27.980000000000019,
+						75.31000000000006
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						388.37,
+						596.01,
+						34.43000000000001,
+						73.15999999999997
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						435.71,
+						608.92,
+						25.819999999999994,
+						58.10000000000002
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						473.29,
+						604.21,
+						36.02999999999997,
+						67.84999999999991
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						508.72,
+						600.6,
+						37.83999999999992,
+						78.06999999999994
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						551.36,
+						604.81,
+						36.629999999999998,
+						79.2700000000001
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						593.4,
+						604.81,
+						33.02999999999997,
+						72.06000000000006
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						625.22,
+						606.01,
+						42.039999999999967,
+						73.86000000000002
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						665.46,
+						601.2,
+						36.02999999999997,
+						75.06999999999994
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						712.3,
+						624.62,
+						31.83000000000004,
+						58.860000000000017
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						748.33,
+						609.01,
+						35.42999999999995,
+						76.26999999999998
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						789.17,
+						619.82,
+						33.629999999999998,
+						70.8599999999999
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						823.4,
+						603.01,
+						29.420000000000074,
+						72.06000000000006
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						868.4,
+						774.75,
+						36.700000000000049,
+						81.64999999999998
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						830.6,
+						778.36,
+						30.029999999999974,
+						73.86000000000002
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						790.37,
+						786.16,
+						32.42999999999995,
+						63.66000000000008
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						750.73,
+						791.57,
+						34.23000000000002,
+						63.64999999999998
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						713.5,
+						787.97,
+						30.629999999999997,
+						72.65999999999997
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						676.87,
+						795.17,
+						32.42999999999995,
+						63.66000000000008
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						634.23,
+						790.97,
+						31.829999999999929,
+						67.86000000000002
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						592.8,
+						780.76,
+						28.82000000000005,
+						72.06000000000006
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						558.57,
+						783.76,
+						22.819999999999938,
+						70.86000000000002
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						523.14,
+						774.15,
+						24.620000000000006,
+						78.07000000000005
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						484.7,
+						789.17,
+						26.430000000000008,
+						65.45000000000005
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						446.27,
+						785.56,
+						30.629999999999997,
+						75.07000000000005
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						433.66,
+						867.23,
+						76.25999999999999,
+						31.829999999999929
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						443.87,
+						912.88,
+						75.65999999999997,
+						30.019999999999983
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						318.36,
+						779.56,
+						23.41999999999996,
+						63.65000000000009
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						276.32,
+						783.76,
+						22.220000000000029,
+						61.25
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						240.89,
+						778.36,
+						27.629999999999997,
+						61.25
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						225.28,
+						858.83,
+						87.66999999999999,
+						36.629999999999998
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						198.85,
+						900.86,
+						84.08000000000001,
+						33.629999999999998
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						188.05,
+						938.1,
+						81.07,
+						31.220000000000029
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						211.47,
+						993.34,
+						75.05999999999998,
+						35.42999999999995
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						287.73,
+						1277.99,
+						39.039999999999967,
+						81.67000000000007
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						329.77,
+						1276.19,
+						32.43000000000001,
+						78.06999999999994
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						367.0,
+						1282.2,
+						36.629999999999998,
+						74.46000000000004
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						406.03,
+						1277.99,
+						28.83000000000004,
+						67.25999999999999
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						451.67,
+						1268.98,
+						33.629999999999998,
+						81.67000000000007
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						490.11,
+						1270.79,
+						28.220000000000029,
+						73.86000000000013
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						527.94,
+						1271.99,
+						30.029999999999974,
+						75.05999999999995
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						573.58,
+						1267.78,
+						29.42999999999995,
+						77.47000000000003
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						619.22,
+						1265.38,
+						27.620000000000006,
+						75.66999999999985
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						654.05,
+						1263.58,
+						33.030000000000089,
+						76.86000000000013
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						696.09,
+						1261.78,
+						28.819999999999938,
+						75.05999999999995
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						733.92,
+						1247.96,
+						28.82000000000005,
+						83.48000000000002
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						295.54,
+						1441.33,
+						60.64999999999998,
+						22.820000000000165
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						405.43,
+						1490.58,
+						75.67000000000002,
+						26.420000000000074
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						288.93,
+						1495.98,
+						71.45999999999998,
+						28.829999999999929
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						185.04,
+						1503.79,
+						74.47,
+						33.63000000000011
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						78.75,
+						1511.59,
+						72.66,
+						27.63000000000011
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1.88,
+						1512.79,
+						58.25,
+						34.23000000000002
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						824.6,
+						1258.17,
+						24.620000000000006,
+						66.05999999999995
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						860.03,
+						1246.76,
+						35.430000000000067,
+						79.87000000000012
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						900.26,
+						1247.96,
+						39.039999999999967,
+						72.06999999999994
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						950.11,
+						1244.36,
+						33.629999999999998,
+						67.86000000000013
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						983.13,
+						1238.96,
+						31.230000000000019,
+						62.450000000000049
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1023.37,
+						1333.84,
+						72.06000000000006,
+						27.62000000000012
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1461.15,
+						1210.13,
+						35.429999999999839,
+						77.4699999999998
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1505.59,
+						1217.34,
+						27.62000000000012,
+						47.440000000000058
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1540.42,
+						1202.33,
+						25.819999999999938,
+						72.66000000000008
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1579.45,
+						1200.52,
+						29.430000000000065,
+						75.67000000000007
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1616.69,
+						1198.12,
+						28.220000000000029,
+						76.27000000000021
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1656.32,
+						1196.92,
+						30.019999999999983,
+						73.8599999999999
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1703.76,
+						1198.12,
+						24.019999999999983,
+						57.05000000000018
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1739.19,
+						1186.11,
+						31.230000000000019,
+						76.27000000000021
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1777.02,
+						1190.92,
+						29.430000000000065,
+						65.44999999999982
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1817.26,
+						1189.11,
+						22.819999999999938,
+						67.86000000000013
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1861.7,
+						1182.51,
+						30.61999999999989,
+						67.8599999999999
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1954.78,
+						1169.9,
+						34.82999999999993,
+						75.65999999999986
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						1996.21,
+						1165.69,
+						25.220000000000029,
+						72.66999999999985
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2033.45,
+						1166.29,
+						33.62000000000012,
+						77.47000000000003
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2073.68,
+						1164.49,
+						32.43000000000029,
+						74.47000000000003
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2119.92,
+						1160.89,
+						23.420000000000074,
+						76.25999999999999
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2153.55,
+						1166.29,
+						36.029999999999748,
+						66.66000000000008
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2191.38,
+						1153.08,
+						30.63000000000011,
+						72.06000000000017
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2235.22,
+						1153.08,
+						26.420000000000074,
+						78.67000000000007
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2271.85,
+						1157.89,
+						28.230000000000019,
+						69.65999999999986
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2314.49,
+						1156.09,
+						33.63000000000011,
+						70.86000000000013
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2357.13,
+						1152.48,
+						25.2199999999998,
+						60.66000000000008
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2389.55,
+						1151.28,
+						28.829999999999929,
+						66.66000000000008
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2426.79,
+						1151.28,
+						33.63000000000011,
+						67.86000000000013
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2477.23,
+						1147.68,
+						28.829999999999929,
+						64.84999999999991
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2519.87,
+						1142.27,
+						26.420000000000074,
+						65.46000000000004
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2552.9,
+						1142.87,
+						25.2199999999998,
+						64.26000000000022
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2593.73,
+						1132.66,
+						23.420000000000074,
+						65.45999999999981
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2631.56,
+						1138.07,
+						27.63000000000011,
+						67.86000000000013
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2670.6,
+						1148.88,
+						27.019999999999983,
+						68.45999999999981
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2709.63,
+						1145.88,
+						29.429999999999838,
+						71.45999999999981
+					]
+				},
+				{
+					"id": 0,
+					"type": "bbox",
+					"attributes": {
+						"occluded": false
+					},
+					"group": 0,
+					"label_id": 1,
+					"z_order": 0,
+					"bbox": [
+						2956.45,
+						1542.22,
+						27.620000000000347,
+						72.66000000000008
+					]
+				}
+			],
+			"attr": {
+				"frame": 0
+			},
+			"image": {
+				"size": [
+					1758,
+					3221
+				],
+				"path": "map2_3.png"
+			}
+		}
+	]
+}

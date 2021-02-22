@@ -1,0 +1,258 @@
+{
+  "info": {},
+  "categories": {
+    "label": {
+      "labels": [
+        {
+          "name": "car",
+          "parent": ""
+        },
+        {
+          "name": "parking",
+          "parent": ""
+        }
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "map12_3",
+      "annotations": [
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            458.55,
+            303.1,
+            537.19,
+            310.04,
+            541.82,
+            1087.26,
+            472.43,
+            1084.95
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            659.79,
+            44.03,
+            745.38,
+            39.4,
+            743.07,
+            1078.01,
+            659.79,
+            1073.38
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            768.51,
+            7.02,
+            803.21,
+            4.71,
+            824.03,
+            1059.51,
+            756.94,
+            1073.38
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            884.17,
+            9.33,
+            909.61,
+            9.33,
+            935.06,
+            587.62,
+            935.06,
+            1013.24,
+            898.05,
+            1017.87,
+            904.99,
+            569.12
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            2417.79,
+            41.72,
+            2461.74,
+            44.03,
+            2445.55,
+            1080.32,
+            2417.79,
+            1080.32
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            2327.58,
+            16.27,
+            2357.65,
+            13.96,
+            2364.59,
+            273.03,
+            2327.58,
+            273.03
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            2306.76,
+            728.72,
+            2341.46,
+            735.66,
+            2348.4,
+            1017.87,
+            2311.39,
+            1017.87
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            3056.22,
+            1119.65,
+            3213.52,
+            1131.21,
+            3213.52,
+            1189.04,
+            3051.6,
+            1186.73
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            985.95,
+            1554.52,
+            1018.3,
+            1563.8,
+            1016.02,
+            1711.82,
+            983.63,
+            1709.5
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            2059.25,
+            1517.51,
+            2119.39,
+            1697.94,
+            2170.28,
+            1684.06,
+            2093.95,
+            1515.2
+          ],
+          "z_order": 0
+        },
+        {
+          "id": 0,
+          "type": "polygon",
+          "attributes": {
+            "occluded": false
+          },
+          "group": 0,
+          "label_id": 1,
+          "points": [
+            2237.37,
+            1536.02,
+            2600.53,
+            1538.33,
+            2598.22,
+            1623.92,
+            2260.5,
+            1626.23
+          ],
+          "z_order": 0
+        }
+      ],
+      "attr": {
+        "frame": 0
+      },
+      "image": {
+        "size": [
+          1758,
+          3221
+        ],
+        "path": "map12_3.png"
+      }
+    }
+  ]
+}
